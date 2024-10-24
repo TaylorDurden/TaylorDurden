@@ -5,7 +5,7 @@ As a Web Fullstack Developer with 10 years of experience, I specialize in buildi
 - You can reach me through: <a href="mailto:mulhollanddrive2014@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,ts,nextjs,expressjs,nodejs,docker,kubernetes,bitbucket,jenkins,elasticsearch,kafka,rabbitmq,terraform,aws,postgresql,mongodb,redis,md,git,github,vscode,jest,styledcomponents,postman,dotnet,golang,solidity,graphql&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,ts,nextjs,materialui,expressjs,nodejs,docker,kubernetes,bitbucket,jenkins,elasticsearch,kafka,rabbitmq,terraform,aws,postgresql,mongodb,redis,md,git,github,vscode,jest,styledcomponents,postman,dotnet,golang,solidity,graphql&perline=13)](#)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
