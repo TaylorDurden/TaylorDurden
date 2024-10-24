@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi... I'm Taylor Li  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-<!--
-**TaylorDurden/TaylorDurden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A **Full Stack Developer**  and an advocate for building **responsive**, **accessible** and **inclusive** digital products and experiences for the web based in China. 
+- Open to project collaborations
+- You can reach me through: <a href="mailto:mulhollanddrive2014@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
 
-Here are some ideas to get you started:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,ts,nextjs,expressjs,nodejs,docker,kubernetes,bitbucket,jenkins,elasticsearch,kafka,rabbitmq,terraform,aws,postgresql,mongodb,redis,md,git,github,vscode,jest,styledcomponents,postman,dotnet,golang,solidity,graphql&perline=13)](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
+
+ [![Taylor's github stats](https://bad-apple-github-readme.vercel.app/api?username=TaylorDurden&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ 
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=TaylorDurden&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+[![Taylor Li's current streak](https://streak-stats.demolab.com/?user=TaylorDurden&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
