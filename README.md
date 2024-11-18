@@ -13,8 +13,6 @@ As a Web Fullstack Developer with 10 years of experience, I specialize in buildi
  
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=TaylorDurden&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-[![Taylor Li's current streak](https://streak-stats.demolab.com/?user=TaylorDurden&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
