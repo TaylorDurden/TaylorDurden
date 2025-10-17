@@ -8,8 +8,6 @@ As a Web Fullstack Developer with 10 years of experience, I specialize in buildi
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,ts,nextjs,materialui,expressjs,nodejs,docker,kubernetes,bitbucket,jenkins,elasticsearch,kafka,rabbitmq,terraform,aws,postgresql,mongodb,redis,md,git,github,vscode,jest,styledcomponents,postman,dotnet,golang,solidity,graphql&perline=13)](#)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
-
- [![Taylor's github stats](https://bad-apple-github-readme.vercel.app/api?username=TaylorDurden&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
  
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=TaylorDurden&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
